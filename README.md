@@ -1,7 +1,7 @@
 目录结构
-myBochsrc(GDB).disk     bochs模拟的计算机的配置文件
+MyBochsrc(GDB).disk     bochs模拟的计算机的配置文件
 
 
-createHardDisk.sh       创建硬盘镜像
-writeBinToDisk.sh       将二进制文件写入硬盘镜像
-startBochs.sh           启动bochs虚拟机
+CreateHardDisk.sh       创建硬盘镜像
+WriteMBRToDisk.sh       将MBR写入硬盘镜像
+StartBochs.sh           启动bochs虚拟机
